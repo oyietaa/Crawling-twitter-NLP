@@ -10,7 +10,7 @@ Project ini berfokus pada analisis sentimen terhadap data Twitter yang diperoleh
 ## Installation
 1. Clone repository:
    ```bash
-    https://github.com/oyietaa/Crawling-twitter-NPL
+    https://github.com/oyietaa/Crawling-twitter-NLP
     ```
 
 2. Install library yang dibutuhkan:
